@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>DataIn</title>	
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/flickity.css" rel="stylesheet" >
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/queries.css" rel="stylesheet">
+		
+		
+		<script type="text/javascript" src="http://platform.linkedin.com/in.js">
+ 		api_key: 779oq5orv2o71g
+ 		authorize: true
+		</script>
+
+<!-- JavaScript to get data from LinkedIn API -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link media="all" type="text/css" href="../css/streamin.css" rel="stylesheet"/>
+  <link media="all" type="text/css" href="../css/jqueryui.css" rel="stylesheet"/>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.5b1.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>  
+  
+
+
+<script type="text/javascript">
+
+function loadData() {
+  IN.API.Profile("me")
+    .fields(["id", "firstName", "lastName", "pictureUrl","headline","publicProfileUrl"])
+    .result(function(result) {
+      profile = result.values[0];
+      profHTML = "<p><a href=\"" + profile.publicProfileUrl + "\">";
+      profHTML += "<img class=img_border align=\"left\" src=\"" + profile.pictureUrl + "\"></a>";      
+      profHTML += "<a href=\"" + profile.publicProfileUrl + "\">";
+      profHTML += "<h2 class=myname>" + profile.firstName + " " + profile.lastName + "</a> </h2>";
+      profHTML += "<span class=myheadline>" + profile.headline + "</span>";
+      $("#profile").html(profHTML);
+    });
+}
+
+</script>
+
+	</head>
+	<body>
+		<header>
+			<section class="hero">
+				<div class="texture-overlay"></div>
+				<div class="container">
+					<div class="row nav-wrapper">
+						<div class="col-md-6 col-sm-6 col-xs-6 text-left">
+							<a href="#"><img src="img/logo-sss.png" alt="DataIn"></a>
+						</div>
+						<div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
+							<p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
+						</div>
+					</div>
+
+					<div id="profile"></div>
+					<script type="in/Login" data-onAuth="loadData">					
+					Hello, <?js= firstName ?> <?js= lastName ?>.
+					</script>
+					
+					<div class="row hero-content">
+						<div class="col-md-12">
+							<h1 class="animated fadeInDown">Description</h1>
+							<a href="#about" class="learn-btn animated fadeInUp">Learn more <i class="fa fa-arrow-down"></i></a>
+						</div>
+					</div>
+				</div>
+			</section>
+		</header>
+
+		<section class="video" id="about">
+			<div class="container">
+				
+			</div>
+		</section>
+		
+	</body>
+</html>

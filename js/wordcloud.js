@@ -2,7 +2,7 @@ var makeWordCloud = function(wordsHist) {
 
     var fill = d3.scale.category20();
 
-    d3.layout.cloud().size([900, 600])
+    d3.layout.cloud().size([900, 900])
         .words(wordsHist)
         .padding(5)
         .rotate(function() { return ~~(Math.random() * 2) * 90; })

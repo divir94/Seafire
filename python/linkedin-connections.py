@@ -22,6 +22,6 @@ access_token = oauth.Token(
 client = oauth.Client(consumer, access_token)
 
 # Make call to LinkedIn to retrieve your own profile
-resp,content = client.request("https://api.linkedin.com/v1/people/~/connections:(industry,positions)?format=json", "GET", "")
+resp,content = client.request("https://api.linkedin.com/v1/people/~/connections:(public-profile-url)?format=json", "GET", "")
 
 print content

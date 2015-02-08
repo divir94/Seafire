@@ -1,823 +1,827 @@
 {
-  "values": 1,
-  "name": "Publishing",
+  "name": "flare",
   "children": [
     {
-      "name": "APC Books (Arya Publications)",
-      "value": 1
+      "sizes": 1,
+      "name": "Publishing",
+      "children": [
+        {
+          "name": "APC Books (Arya Publications)",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 3,
+      "name": "Entertainment",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Northwestern university, Packman Lab",
+          "size": 1
+        },
+        {
+          "name": "Dearborn Observatory",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 3,
+      "name": "Aviation & Aerospace",
+      "children": [
+        {
+          "name": "Voorhees Research Group",
+          "size": 1
+        },
+        {
+          "name": "Strive For College",
+          "size": 1
+        },
+        {
+          "name": "Pick-Staiger Concert Hall",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 7,
+      "name": "Management Consulting",
+      "children": [
+        {
+          "name": "Indian Youth Economic Association",
+          "size": 1
+        },
+        {
+          "name": "Northwestern Student Holdings",
+          "size": 1
+        },
+        {
+          "name": "University of Toronto",
+          "size": 1
+        },
+        {
+          "name": "Accenture",
+          "size": 1
+        },
+        {
+          "name": "campusCATALYST",
+          "size": 1
+        },
+        {
+          "name": "Tata Housing Development Company Limited",
+          "size": 1
+        },
+        {
+          "name": "Talent and Growth Services (TAG), University of Toronto",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Human Resources",
+      "children": [
+        {
+          "name": "Target",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 7,
+      "name": "Mechanical or Industrial Engineering",
+      "children": [
+        {
+          "name": "Cummins Inc.",
+          "size": 1
+        },
+        {
+          "name": "Wacker Neuson",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University Model United Nations",
+          "size": 1
+        },
+        {
+          "name": "Sigma Phi Epsilon",
+          "size": 1
+        },
+        {
+          "name": "Columbia University in the City of New York",
+          "size": 1
+        },
+        {
+          "name": "Advanced Materials Processing Lab, Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Norris University Center",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 10,
+      "name": "Research",
+      "children": [
+        {
+          "name": "Stupp Laboratory - Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Unaffiliated",
+          "size": 1
+        },
+        {
+          "name": "Scarsdale Strings",
+          "size": 1
+        },
+        {
+          "name": "NASA Ames Research Center",
+          "size": 1
+        },
+        {
+          "name": "Duke University",
+          "size": 1
+        },
+        {
+          "name": "Yale School of Medicine",
+          "size": 1
+        },
+        {
+          "name": "Yale College Dean's Office",
+          "size": 1
+        },
+        {
+          "name": "Watzek Library",
+          "size": 1
+        },
+        {
+          "name": "Yale-New Haven Hospital",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Consumer Goods",
+      "children": [
+        {
+          "name": "Wartburg College",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 5,
+      "name": "Internet",
+      "children": [
+        {
+          "name": "Castle for Landlords",
+          "size": 1
+        },
+        {
+          "name": "Rebirth Realty",
+          "size": 1
+        },
+        {
+          "name": "Groupon",
+          "size": 2
+        },
+        {
+          "name": "Are You a Human",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 0,
+      "name": "Environmental Services",
+      "children": [
+
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Writing and Editing",
+      "children": [
+        {
+          "name": "Junge Medien Th\u00fcringen",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Capital Markets",
+      "children": [
+        {
+          "name": "Microsoft",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Education Management",
+      "children": [
+        {
+          "name": "UWC Mahindra college",
+          "size": 1
+        },
+        {
+          "name": "Mahindra College",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Automotive",
+      "children": [
+        {
+          "name": "andrew j. spatz/associates ltd.",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 5,
+      "name": "Marketing and Advertising",
+      "children": [
+        {
+          "name": "Shaare Zedek Medical Center",
+          "size": 1
+        },
+        {
+          "name": "SC Associates, LLC",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Starcom Mediavest Group Performance Marketing",
+          "size": 1
+        },
+        {
+          "name": "Progressive Services Network",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Chemicals",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Motion Pictures and Film",
+      "children": [
+        {
+          "name": "Northwestern University RTVF Department",
+          "size": 1
+        },
+        {
+          "name": "Count the Clock Productions",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "International Trade and Development",
+      "children": [
+        {
+          "name": "Wellesley College Office of Admission",
+          "size": 1
+        },
+        {
+          "name": "Wellesley College",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 8,
+      "name": "Computer Hardware",
+      "children": [
+        {
+          "name": "UCSD Guardian Newspaper",
+          "size": 1
+        },
+        {
+          "name": "University of California, San Diego",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University Library Technology Division",
+          "size": 1
+        },
+        {
+          "name": "Early Stage Startup",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 4
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Design",
+      "children": [
+        {
+          "name": "Dakkota Integrated Systems",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Architecture & Planning",
+      "children": [
+        {
+          "name": "University of Cincinnati",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 31,
+      "name": "Computer Software",
+      "children": [
+        {
+          "name": "Private Tutoring",
+          "size": 1
+        },
+        {
+          "name": "Knight Lab @ Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Integrated Science Program at Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "First Pulse Technology",
+          "size": 1
+        },
+        {
+          "name": "Wildcat Express Delivery",
+          "size": 1
+        },
+        {
+          "name": "Cxense",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University Associated Student Government",
+          "size": 1
+        },
+        {
+          "name": "Northwestern Student Holdings",
+          "size": 1
+        },
+        {
+          "name": "FiveThirtyEight",
+          "size": 1
+        },
+        {
+          "name": "Amazon",
+          "size": 1
+        },
+        {
+          "name": "Visa",
+          "size": 1
+        },
+        {
+          "name": "Facebook",
+          "size": 1
+        },
+        {
+          "name": "Opternative",
+          "size": 1
+        },
+        {
+          "name": "Destination Luxury",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University Main Library",
+          "size": 1
+        },
+        {
+          "name": "Office of Intercultural and International Life",
+          "size": 1
+        },
+        {
+          "name": "UNESQUO | BIT Mesra",
+          "size": 1
+        },
+        {
+          "name": "News and Publications Society | BIT Mesra",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 7
+        },
+        {
+          "name": "College of Cultural & Community Studies",
+          "size": 1
+        },
+        {
+          "name": "mPharma",
+          "size": 1
+        },
+        {
+          "name": "Google",
+          "size": 1
+        },
+        {
+          "name": "Techstars",
+          "size": 1
+        },
+        {
+          "name": "University of Illinois at Urbana-Champaign",
+          "size": 1
+        },
+        {
+          "name": "Clark University",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Airlines/Aviation",
+      "children": [
+        {
+          "name": "Sabre Airline Solutions",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 10,
+      "name": "Higher Education",
+      "children": [
+        {
+          "name": "Northwestern",
+          "size": 1
+        },
+        {
+          "name": "Huntsman Student Advisory Board",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 2
+        },
+        {
+          "name": "Social Impact Consulting",
+          "size": 1
+        },
+        {
+          "name": "Wellesley College",
+          "size": 1
+        },
+        {
+          "name": "Wellesley College Child Study Center",
+          "size": 1
+        },
+        {
+          "name": "Middlebury College ITS",
+          "size": 1
+        },
+        {
+          "name": "Lake Forest College",
+          "size": 2
+        }
+      ]
+    },
+    {
+      "sizes": 5,
+      "name": "Information Technology and Services",
+      "children": [
+        {
+          "name": "Goby",
+          "size": 1
+        },
+        {
+          "name": "Enova International",
+          "size": 1
+        },
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "IBM",
+          "size": 1
+        },
+        {
+          "name": "Are You a Human",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 0,
+      "name": "Newspapers",
+      "children": [
+
+      ]
+    },
+    {
+      "sizes": 3,
+      "name": "International Affairs",
+      "children": [
+        {
+          "name": "VietAbroader Organization",
+          "size": 1
+        },
+        {
+          "name": "Wellesley College",
+          "size": 1
+        },
+        {
+          "name": "United Nations",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Hospitality",
+      "children": [
+        {
+          "name": "Hathor Investment Group Limited",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Public Policy",
+      "children": [
+        {
+          "name": "Liberal Party of Canada",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 9,
+      "name": "Venture Capital & Private Equity",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Syndio Social, Inc.",
+          "size": 1
+        },
+        {
+          "name": "Lightbank",
+          "size": 1
+        },
+        {
+          "name": "Catapult Ideas",
+          "size": 1
+        },
+        {
+          "name": "Agile Healthcare",
+          "size": 1
+        },
+        {
+          "name": "Sportiqe Apparel",
+          "size": 1
+        },
+        {
+          "name": "Mason America",
+          "size": 1
+        },
+        {
+          "name": "NuCurrent Inc.",
+          "size": 1
+        },
+        {
+          "name": "ContextMedia, Inc.",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 1,
+      "name": "Computer & Network Security",
+      "children": [
+        {
+          "name": "ProfStreet",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Biotechnology",
+      "children": [
+        {
+          "name": "AppHerd, LLC",
+          "size": 1
+        },
+        {
+          "name": "iStart Jax",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 3,
+      "name": "Investment Banking",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 3
+        }
+      ]
+    },
+    {
+      "sizes": 6,
+      "name": "Nonprofit Organization Management",
+      "children": [
+        {
+          "name": "Northwestern University's Atomic and Nanoscale Characterization Experimental Center",
+          "size": 1
+        },
+        {
+          "name": "AIESEC Northwestern University",
+          "size": 2
+        },
+        {
+          "name": "Sylver Consulting",
+          "size": 1
+        },
+        {
+          "name": "Facers Impex and Traders Pvt Ltd",
+          "size": 1
+        },
+        {
+          "name": "AIESEC United States",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 0,
+      "name": "Hospital & Health Care",
+      "children": [
+
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Market Research",
+      "children": [
+        {
+          "name": "Lamstan",
+          "size": 1
+        },
+        {
+          "name": "Lake Forest College Admissions",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Civil Engineering",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 1
+        },
+        {
+          "name": "Sodexo",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 3,
+      "name": "Medical Devices",
+      "children": [
+        {
+          "name": "Neuroscience and Robotics Laboratory",
+          "size": 1
+        },
+        {
+          "name": "Baxter Healthcare",
+          "size": 1
+        },
+        {
+          "name": "Rinovum Women's Health",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 18,
+      "name": "Financial Services",
+      "children": [
+        {
+          "name": "Northwestern University",
+          "size": 3
+        },
+        {
+          "name": "The Carlton St Blues Band",
+          "size": 1
+        },
+        {
+          "name": "Boston University Howard Thurman Center",
+          "size": 1
+        },
+        {
+          "name": "J.P. Morgan",
+          "size": 2
+        },
+        {
+          "name": "Cornell University",
+          "size": 1
+        },
+        {
+          "name": "Cornell Consulting Club",
+          "size": 1
+        },
+        {
+          "name": "Goldman Sachs",
+          "size": 1
+        },
+        {
+          "name": "SEO",
+          "size": 1
+        },
+        {
+          "name": "Mutual Investment Club of Cornell",
+          "size": 1
+        },
+        {
+          "name": "brain storm ltd",
+          "size": 1
+        },
+        {
+          "name": "Management Leadership for Tomorrow (MLT)",
+          "size": 1
+        },
+        {
+          "name": "Ford Models",
+          "size": 1
+        },
+        {
+          "name": "EY",
+          "size": 1
+        },
+        {
+          "name": "Brown Daily Herald Inc.",
+          "size": 1
+        },
+        {
+          "name": "HyperSphere",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "sizes": 2,
+      "name": "Music",
+      "children": [
+        {
+          "name": "Northwestern University Pick-Staiger Concert Hall",
+          "size": 1
+        },
+        {
+          "name": "Sherman Ave",
+          "size": 1
+        }
+      ]
     }
-  ]
-},
-{
-  "values": 3,
-  "name": "Entertainment",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Northwestern university, Packman Lab",
-      "value": 1
-    },
-    {
-      "name": "Dearborn Observatory",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 3,
-  "name": "Aviation & Aerospace",
-  "children": [
-    {
-      "name": "Voorhees Research Group",
-      "value": 1
-    },
-    {
-      "name": "Strive For College",
-      "value": 1
-    },
-    {
-      "name": "Pick-Staiger Concert Hall",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 7,
-  "name": "Management Consulting",
-  "children": [
-    {
-      "name": "Indian Youth Economic Association",
-      "value": 1
-    },
-    {
-      "name": "Northwestern Student Holdings",
-      "value": 1
-    },
-    {
-      "name": "University of Toronto",
-      "value": 1
-    },
-    {
-      "name": "Accenture",
-      "value": 1
-    },
-    {
-      "name": "campusCATALYST",
-      "value": 1
-    },
-    {
-      "name": "Tata Housing Development Company Limited",
-      "value": 1
-    },
-    {
-      "name": "Talent and Growth Services (TAG), University of Toronto",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Human Resources",
-  "children": [
-    {
-      "name": "Target",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 7,
-  "name": "Mechanical or Industrial Engineering",
-  "children": [
-    {
-      "name": "Cummins Inc.",
-      "value": 1
-    },
-    {
-      "name": "Wacker Neuson",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University Model United Nations",
-      "value": 1
-    },
-    {
-      "name": "Sigma Phi Epsilon",
-      "value": 1
-    },
-    {
-      "name": "Columbia University in the City of New York",
-      "value": 1
-    },
-    {
-      "name": "Advanced Materials Processing Lab, Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Norris University Center",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 10,
-  "name": "Research",
-  "children": [
-    {
-      "name": "Stupp Laboratory - Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Unaffiliated",
-      "value": 1
-    },
-    {
-      "name": "Scarsdale Strings",
-      "value": 1
-    },
-    {
-      "name": "NASA Ames Research Center",
-      "value": 1
-    },
-    {
-      "name": "Duke University",
-      "value": 1
-    },
-    {
-      "name": "Yale School of Medicine",
-      "value": 1
-    },
-    {
-      "name": "Yale College Dean's Office",
-      "value": 1
-    },
-    {
-      "name": "Watzek Library",
-      "value": 1
-    },
-    {
-      "name": "Yale-New Haven Hospital",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Consumer Goods",
-  "children": [
-    {
-      "name": "Wartburg College",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 5,
-  "name": "Internet",
-  "children": [
-    {
-      "name": "Castle for Landlords",
-      "value": 1
-    },
-    {
-      "name": "Rebirth Realty",
-      "value": 1
-    },
-    {
-      "name": "Groupon",
-      "value": 2
-    },
-    {
-      "name": "Are You a Human",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 0,
-  "name": "Environmental Services",
-  "children": [
-    
-  ]
-},
-{
-  "values": 1,
-  "name": "Writing and Editing",
-  "children": [
-    {
-      "name": "Junge Medien Th\u00fcringen",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Capital Markets",
-  "children": [
-    {
-      "name": "Microsoft",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "Education Management",
-  "children": [
-    {
-      "name": "UWC Mahindra college",
-      "value": 1
-    },
-    {
-      "name": "Mahindra College",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Automotive",
-  "children": [
-    {
-      "name": "andrew j. spatz/associates ltd.",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 5,
-  "name": "Marketing and Advertising",
-  "children": [
-    {
-      "name": "Shaare Zedek Medical Center",
-      "value": 1
-    },
-    {
-      "name": "SC Associates, LLC",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Starcom Mediavest Group Performance Marketing",
-      "value": 1
-    },
-    {
-      "name": "Progressive Services Network",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Chemicals",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "Motion Pictures and Film",
-  "children": [
-    {
-      "name": "Northwestern University RTVF Department",
-      "value": 1
-    },
-    {
-      "name": "Count the Clock Productions",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "International Trade and Development",
-  "children": [
-    {
-      "name": "Wellesley College Office of Admission",
-      "value": 1
-    },
-    {
-      "name": "Wellesley College",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 8,
-  "name": "Computer Hardware",
-  "children": [
-    {
-      "name": "UCSD Guardian Newspaper",
-      "value": 1
-    },
-    {
-      "name": "University of California, San Diego",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University Library Technology Division",
-      "value": 1
-    },
-    {
-      "name": "Early Stage Startup",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 4
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Design",
-  "children": [
-    {
-      "name": "Dakkota Integrated Systems",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Architecture & Planning",
-  "children": [
-    {
-      "name": "University of Cincinnati",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 31,
-  "name": "Computer Software",
-  "children": [
-    {
-      "name": "Private Tutoring",
-      "value": 1
-    },
-    {
-      "name": "Knight Lab @ Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Integrated Science Program at Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "First Pulse Technology",
-      "value": 1
-    },
-    {
-      "name": "Wildcat Express Delivery",
-      "value": 1
-    },
-    {
-      "name": "Cxense",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University Associated Student Government",
-      "value": 1
-    },
-    {
-      "name": "Northwestern Student Holdings",
-      "value": 1
-    },
-    {
-      "name": "FiveThirtyEight",
-      "value": 1
-    },
-    {
-      "name": "Amazon",
-      "value": 1
-    },
-    {
-      "name": "Visa",
-      "value": 1
-    },
-    {
-      "name": "Facebook",
-      "value": 1
-    },
-    {
-      "name": "Opternative",
-      "value": 1
-    },
-    {
-      "name": "Destination Luxury",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University Main Library",
-      "value": 1
-    },
-    {
-      "name": "Office of Intercultural and International Life",
-      "value": 1
-    },
-    {
-      "name": "UNESQUO | BIT Mesra",
-      "value": 1
-    },
-    {
-      "name": "News and Publications Society | BIT Mesra",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 7
-    },
-    {
-      "name": "College of Cultural & Community Studies",
-      "value": 1
-    },
-    {
-      "name": "mPharma",
-      "value": 1
-    },
-    {
-      "name": "Google",
-      "value": 1
-    },
-    {
-      "name": "Techstars",
-      "value": 1
-    },
-    {
-      "name": "University of Illinois at Urbana-Champaign",
-      "value": 1
-    },
-    {
-      "name": "Clark University",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Airlines/Aviation",
-  "children": [
-    {
-      "name": "Sabre Airline Solutions",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 10,
-  "name": "Higher Education",
-  "children": [
-    {
-      "name": "Northwestern",
-      "value": 1
-    },
-    {
-      "name": "Huntsman Student Advisory Board",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 2
-    },
-    {
-      "name": "Social Impact Consulting",
-      "value": 1
-    },
-    {
-      "name": "Wellesley College",
-      "value": 1
-    },
-    {
-      "name": "Wellesley College Child Study Center",
-      "value": 1
-    },
-    {
-      "name": "Middlebury College ITS",
-      "value": 1
-    },
-    {
-      "name": "Lake Forest College",
-      "value": 2
-    }
-  ]
-},
-{
-  "values": 5,
-  "name": "Information Technology and Services",
-  "children": [
-    {
-      "name": "Goby",
-      "value": 1
-    },
-    {
-      "name": "Enova International",
-      "value": 1
-    },
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "IBM",
-      "value": 1
-    },
-    {
-      "name": "Are You a Human",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 0,
-  "name": "Newspapers",
-  "children": [
-    
-  ]
-},
-{
-  "values": 3,
-  "name": "International Affairs",
-  "children": [
-    {
-      "name": "VietAbroader Organization",
-      "value": 1
-    },
-    {
-      "name": "Wellesley College",
-      "value": 1
-    },
-    {
-      "name": "United Nations",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Hospitality",
-  "children": [
-    {
-      "name": "Hathor Investment Group Limited",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Public Policy",
-  "children": [
-    {
-      "name": "Liberal Party of Canada",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 9,
-  "name": "Venture Capital & Private Equity",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Syndio Social, Inc.",
-      "value": 1
-    },
-    {
-      "name": "Lightbank",
-      "value": 1
-    },
-    {
-      "name": "Catapult Ideas",
-      "value": 1
-    },
-    {
-      "name": "Agile Healthcare",
-      "value": 1
-    },
-    {
-      "name": "Sportiqe Apparel",
-      "value": 1
-    },
-    {
-      "name": "Mason America",
-      "value": 1
-    },
-    {
-      "name": "NuCurrent Inc.",
-      "value": 1
-    },
-    {
-      "name": "ContextMedia, Inc.",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 1,
-  "name": "Computer & Network Security",
-  "children": [
-    {
-      "name": "ProfStreet",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "Biotechnology",
-  "children": [
-    {
-      "name": "AppHerd, LLC",
-      "value": 1
-    },
-    {
-      "name": "iStart Jax",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 3,
-  "name": "Investment Banking",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 3
-    }
-  ]
-},
-{
-  "values": 6,
-  "name": "Nonprofit Organization Management",
-  "children": [
-    {
-      "name": "Northwestern University's Atomic and Nanoscale Characterization Experimental Center",
-      "value": 1
-    },
-    {
-      "name": "AIESEC Northwestern University",
-      "value": 2
-    },
-    {
-      "name": "Sylver Consulting",
-      "value": 1
-    },
-    {
-      "name": "Facers Impex and Traders Pvt Ltd",
-      "value": 1
-    },
-    {
-      "name": "AIESEC United States",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 0,
-  "name": "Hospital & Health Care",
-  "children": [
-    
-  ]
-},
-{
-  "values": 2,
-  "name": "Market Research",
-  "children": [
-    {
-      "name": "Lamstan",
-      "value": 1
-    },
-    {
-      "name": "Lake Forest College Admissions",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "Civil Engineering",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 1
-    },
-    {
-      "name": "Sodexo",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 3,
-  "name": "Medical Devices",
-  "children": [
-    {
-      "name": "Neuroscience and Robotics Laboratory",
-      "value": 1
-    },
-    {
-      "name": "Baxter Healthcare",
-      "value": 1
-    },
-    {
-      "name": "Rinovum Women's Health",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 18,
-  "name": "Financial Services",
-  "children": [
-    {
-      "name": "Northwestern University",
-      "value": 3
-    },
-    {
-      "name": "The Carlton St Blues Band",
-      "value": 1
-    },
-    {
-      "name": "Boston University Howard Thurman Center",
-      "value": 1
-    },
-    {
-      "name": "J.P. Morgan",
-      "value": 2
-    },
-    {
-      "name": "Cornell University",
-      "value": 1
-    },
-    {
-      "name": "Cornell Consulting Club",
-      "value": 1
-    },
-    {
-      "name": "Goldman Sachs",
-      "value": 1
-    },
-    {
-      "name": "SEO",
-      "value": 1
-    },
-    {
-      "name": "Mutual Investment Club of Cornell",
-      "value": 1
-    },
-    {
-      "name": "brain storm ltd",
-      "value": 1
-    },
-    {
-      "name": "Management Leadership for Tomorrow (MLT)",
-      "value": 1
-    },
-    {
-      "name": "Ford Models",
-      "value": 1
-    },
-    {
-      "name": "EY",
-      "value": 1
-    },
-    {
-      "name": "Brown Daily Herald Inc.",
-      "value": 1
-    },
-    {
-      "name": "HyperSphere",
-      "value": 1
-    }
-  ]
-},
-{
-  "values": 2,
-  "name": "Music",
-  "children": [
-    {
-      "name": "Northwestern University Pick-Staiger Concert Hall",
-      "value": 1
-    },
-    {
-      "name": "Sherman Ave",
-      "value": 1
-    }
-  ]
-}
+  ]}

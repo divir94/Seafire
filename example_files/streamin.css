@@ -1,0 +1,106 @@
+   .img_border {
+        border: 1px solid #243356;
+        margin-right: 10px;
+   }
+	
+   #profile {
+	  float: left;
+	  max-width: 200px;
+	  min-width: 200px;
+   }
+  
+   #stream {
+	  float: right;
+	  max-width: 300;
+	  background: #CCCCCC;
+	  min-width: 300;
+	  margin: 8px;
+	  margin-left: 0px;
+	  padding: 10px;
+	  min-height: 200px;
+   }
+	
+	#header {
+	    font-weight: bold;
+	    background:blue;
+		color: white;
+		font-size: 3em;
+		margin-bottom: 1em;
+		padding-left: 20px;
+		border: 1px solid #243356;
+		
+	}
+	#wrapper {
+	   max-width: 600;
+	   min-height: 300;
+	   border: 1px solid #243356;
+	   margin:10px;
+	   margin-top: -20px;
+		
+	}
+	#footer {
+	   max-width: 600;
+	   float: right;
+	   padding: 10px;
+	}
+
+	#badge {
+		background: #CCCCCC;
+		padding: 10px;
+		margin: 8px;
+		margin-right: 0px;
+		min-height: 80px;
+	}	
+	
+	#nav {
+	    float: left;
+	    position: absolute;
+	    left: 10;
+	    display: none;
+	}
+	
+	.streamitem {
+		border: 1px solid black;
+		margin: 5px;
+		background: #FFFFFF;
+		padding: 3px;
+		min-height: 80px;
+	}
+	
+	.myname {
+		font-size: 1.5em;
+	}
+	
+	.myheadline {
+		font-size: 1em;
+		}
+		
+	.updater {
+		font-size: .8em;
+		min-height: 60px;
+	}
+	
+	.update {
+		margin-top: 3px;
+		font-size: .8em;
+	}
+	
+	#button {
+		float: right;
+		
+		font-size: .8em;
+	}
+	
+	.likebutton {
+		font-size: .5em;
+		bottom: 1px;
+		min-width: 75px;
+
+	}
+	
+	.unlikebutton {
+		font-size: .5em;
+		bottom: 1px;
+		min-width: 75px;
+	}
+

@@ -1,0 +1,3046 @@
+{
+  "_count": 145,
+  "_start": 0,
+  "_total": 146,
+  "values": [
+    {
+      "industry": "Venture Capital & Private Equity",
+      "positions": {
+        "_total": 6,
+        "values": [
+          {
+            "company": {
+              "id": 1292340,
+              "name": "Syndio Social, Inc."
+            },
+            "id": 516811113,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2013
+            },
+            "title": "Advisory Board Member"
+          },
+          {
+            "company": {
+              "id": 973343,
+              "name": "Agile Healthcare"
+            },
+            "id": 286208132,
+            "isCurrent": true,
+            "startDate": {"year": 2011},
+            "title": "Advisory Board Member"
+          },
+          {
+            "company": {
+              "id": 1908979,
+              "name": "NuCurrent Inc."
+            },
+            "id": 316568609,
+            "isCurrent": true,
+            "startDate": {"year": 2010},
+            "title": "Advisory Board Member"
+          },
+          {
+            "company": {
+              "id": 1162617,
+              "name": "Sportiqe Apparel"
+            },
+            "id": 184513594,
+            "isCurrent": true,
+            "startDate": {"year": 2006},
+            "title": "Board Member"
+          },
+          {
+            "company": {
+              "id": 141332,
+              "name": "ContextMedia, Inc."
+            },
+            "id": 316568262,
+            "isCurrent": true,
+            "startDate": {"year": 2006},
+            "title": "Advisory Board Member"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 24926776,
+            "isCurrent": true,
+            "startDate": {"year": 1998},
+            "title": "Director, Farley Center for Entrepreneruship and Innovation & Clinical Professor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 1382,
+              "name": "Goldman Sachs"
+            },
+            "id": 606485125,
+            "isCurrent": true,
+            "startDate": {
+              "month": 11,
+              "year": 2014
+            },
+            "title": "Incoming Analyst"
+          },
+          {
+            "company": {
+              "id": 163866,
+              "name": "Ford Models"
+            },
+            "id": 204773115,
+            "isCurrent": true,
+            "startDate": {"year": 2008},
+            "title": "Model"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Nonprofit Organization Management",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 390536,
+              "name": "AIESEC United States"
+            },
+            "id": 547342379,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "Responsibilities include: \n- Strategic member of the national executive board\n- Development of product portfolio and product creation \n- Management of national CRM resources\n- Training and education of 35 local chapters and their local business development responsibles\n- Establishing a Business Development plan and implementation thereof on a local level",
+            "title": "VP Global Internship Program"
+          },
+          {
+            "company": {"name": "Facers Impex and Traders Pvt Ltd"},
+            "id": 341667585,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2012
+            },
+            "summary": "Assessed the state of revenues, expenses and cash flows to ascertain the viability of the $1.5 million firm. \nDeveloped an expansion plan through franchisees in 5 cities, which projected a 150% increase in revenues.\nRecommended a festival sale, which subsequently increased sales by 15% and reduced inventory by 30%.",
+            "title": "Director"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Human Resources",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1512,
+            "name": "Target"
+          },
+          "id": 357910108,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2013
+          },
+          "summary": "I have the best job ever. I connect tech students with exciting opportunities where fast-paced, fun work takes place. \n\nFrom our Minneapolis-based headquarters to over 1,800 stores and more than 35 distribution centers across the U.S. and Canada, Target offers a world of possibilities in an environment that will encourage you to innovate and contribute ideas. Join a company that\u2019s always moving forward to what\u2019s next. Be a part of a team that has revolutionized retail, championed design, and volunteered thousands of hours giving back to their communities. Since 1946, Target has given 5 percent of its profit through community grants and programs; today, that giving equals more than $4 million a week.",
+          "title": "Technology Campus Recruiter"
+        }]
+      }
+    },
+    {
+      "industry": "Internet",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2079529,
+            "name": "Are You a Human"
+          },
+          "id": 174089062,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2010
+          },
+          "summary": "Are You a Human creates captivating distributed microgames that replace the annoying and obnoxious experiences people deal with every day on the Internet.  We call these games PlayThru.\n\nOur first target for PlayThru is the CAPTCHA verification tool that websites use to verify that their users are human.  CAPTCHA infuriates users and decreases submissions rates with its distorted and unreadable text.  PlayThru is a fun, easy, and more effective way to stop spam without driving users crazy",
+          "title": "Co-Founder"
+        }]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 379458823,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2012
+          },
+          "summary": "Grant-Making Director of Daring Q Foundation",
+          "title": "Student"
+        }]
+      }
+    },
+    {
+      "industry": "Information Technology and Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2079529,
+            "name": "Are You a Human"
+          },
+          "id": 174012763,
+          "isCurrent": true,
+          "startDate": {
+            "month": 4,
+            "year": 2010
+          },
+          "title": "Founder"
+        }]
+      }
+    },
+    {
+      "industry": "Venture Capital & Private Equity",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 9266888,
+            "name": "Mason America"
+          },
+          "id": 630738306,
+          "isCurrent": true,
+          "startDate": {
+            "month": 11,
+            "year": 2014
+          },
+          "title": "Program Manager & Operations"
+        }]
+      }
+    },
+    {
+      "industry": "Marketing and Advertising",
+      "positions": {
+        "_total": 4,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 129997501,
+            "isCurrent": true,
+            "startDate": {"year": 2011},
+            "title": "Adjunct Professor"
+          },
+          {
+            "company": {"name": "Shaare Zedek Medical Center"},
+            "id": 129997750,
+            "isCurrent": true,
+            "startDate": {"year": 2008},
+            "summary": "Midwest Board of Directors Shaare Zedek Medical Center, Jerusalem",
+            "title": "Board of Directors"
+          },
+          {
+            "company": {"name": "Progressive Services Network"},
+            "id": 129997945,
+            "isCurrent": true,
+            "startDate": {"year": 2004},
+            "summary": "Founding member and Executive Board of Directors for Progressive Services Network which provides opportunities for adults with special needs.",
+            "title": "Board of Directors"
+          },
+          {
+            "company": {
+              "id": 438359,
+              "name": "SC Associates, LLC"
+            },
+            "id": 220727753,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2000
+            },
+            "title": "President"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Marketing and Advertising",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Starcom Mediavest Group Performance Marketing"},
+          "id": 496918178,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2014
+          },
+          "summary": "\u2022\tResponsible for managing technical aspects of digital media campaign planning and execution\n\u2022\tPlan and implement the tagging of clients\u2019 websites for purposes of gathering business intelligence\n\u2022\tDeveloped and document best-practice campaign activation processes to allow for accurate ad trafficking with short turnarounds\n\u2022\tTroubleshoot technical issues with ad tag and pixel loading, working with client-side web developers and ad server support\nEnvironments:  DoubleClick Campaign Manager, Atlas, Sizmek",
+          "title": "Digital Ad Ops Manager"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Hardware",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 164367193,
+          "isCurrent": true,
+          "startDate": {
+            "month": 10,
+            "year": 2010
+          },
+          "summary": "Contributed to the administration of the CEE department's network, hardware, and related peripherals\nAssisted faculty, staff, post-doctorates, and graduate students in hardware/software installation and troubleshooting\nInstalled, configured, and troubleshot hardware, network, network printers, and other issues as requested",
+          "title": "Computer Aide 3 (Work-Study)"
+        }]
+      }
+    },
+    {
+      "industry": "Capital Markets",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1035,
+            "name": "Microsoft"
+          },
+          "id": 371559553,
+          "isCurrent": true,
+          "startDate": {
+            "month": 3,
+            "year": 2013
+          },
+          "summary": "Run a cross asset portfolio based on global macro and social media signals.\n\n\nManaged credit portfolio with a quant macro process. Cumulative 2 year outperformance by 75 bps\n\nInvited talks to MSR on Social Media and Asset Pricing, Univ. of Washington Paul Haynes Memorial Lecture, lunch seminar to HBS finance faculty",
+          "title": "Group Portfolio Manager"
+        }]
+      }
+    },
+    {
+      "industry": "Investment Banking",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Internet",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 355611,
+              "name": "Groupon"
+            },
+            "id": 594992053,
+            "isCurrent": true,
+            "startDate": {
+              "month": 10,
+              "year": 2014
+            },
+            "summary": "#GrouponU",
+            "title": "Senior Technical Campus Recruiter"
+          },
+          {
+            "company": {
+              "id": 355611,
+              "name": "Groupon"
+            },
+            "id": 496003923,
+            "isCurrent": true,
+            "startDate": {
+              "month": 7,
+              "year": 2013
+            },
+            "summary": "*Full cycle recruiting: sourcing, screening, interviewing and onboarding new hires and summer interns\n*Plan, coordinate and attend career fairs, tech talks and hackathons\n*Promote the Groupon brand at campus\n*Assist in managing the tech summer internship program\n*Pass out awesome swag to students!",
+            "title": "Technical Campus Recruiter"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3533188,
+            "name": "Opternative"
+          },
+          "id": 593660493,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "title": "Software Development Intern"
+        }]
+      }
+    },
+    {
+      "industry": "Education Management",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Mahindra College"},
+          "id": 105601426,
+          "isCurrent": true,
+          "title": "Co-ordinator / Administrator"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 5066818,
+            "name": "mPharma"
+          },
+          "id": 595485518,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2014
+          },
+          "summary": "# Profile:\nmPharma is a pharmaceutical data startup with headquarters in Israel and current operations in Zambia. The company provides patients and doctors access to high quality medicines and information, while enabling health ministries and pharmaceutical companies to obtain real-time pharmaceutical and health information.\n\n# Projects:\nCurrent personal projects include building web APIs using Django REST framework and developing database filtering/management algorithms for drug information acquired from the Zambian Health Ministry.",
+          "title": "Software Engineering Intern"
+        }]
+      }
+    },
+    {
+      "industry": "International Affairs",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1860,
+            "name": "United Nations"
+          },
+          "id": 567531958,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2014
+          },
+          "title": "Youth Representative"
+        }]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {
+              "id": 3523,
+              "name": "Cornell University"
+            },
+            "id": 596998714,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2014
+            },
+            "summary": "Prepared learning materials, graded examinations and led weekly office hours for Optimization (ORIE 3300) in the School of Engineering",
+            "title": "Teaching Assistant"
+          },
+          {
+            "company": {
+              "id": 2938136,
+              "name": "Mutual Investment Club of Cornell"
+            },
+            "id": 361873696,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "summary": "\u2022\tDesigned a 10 week analyst training program for ~60 club members; led strategy for organization-wide legal restructuring\n\u2022\tConducted both fundamental and technical analyses to pinpoint investment opportunities; executing 7 trades accounting for 12% of the portfolio in macro and tech sectors \u2013 including stocks such as Trulia, Teradata, Oracle",
+            "title": "President"
+          },
+          {
+            "company": {
+              "id": 2709447,
+              "name": "Cornell Consulting Club"
+            },
+            "id": 403848966,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "summary": "\u2022\tSecured 4 of the 6 current clients (including a top-10 business school and a 4000+ employee MNC) \n\u2022\tDirected teams on projects including VC due-diligence with a top strategy consulting firm, international market entry for a $15MM revenue American wholesaler, business model transformation for a multinational enterprise services provider, and revenue optimization and marketing strategy for a business school\u2019s MBA program",
+            "title": "President"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {
+              "id": 1067,
+              "name": "J.P. Morgan"
+            },
+            "id": 610644217,
+            "isCurrent": true,
+            "startDate": {
+              "month": 11,
+              "year": 2014
+            },
+            "title": "Incoming Sales & Trading Summer Analyst"
+          },
+          {
+            "company": {
+              "id": 28593,
+              "name": "SEO"
+            },
+            "id": 619058325,
+            "isCurrent": true,
+            "startDate": {
+              "month": 11,
+              "year": 2014
+            },
+            "summary": "- Selected to participate in highly selective training program for diverse talent\n- Complete 100 hours of intensive sales & trading training for upcoming summer at J.P. Morgan",
+            "title": "Career Scholar"
+          },
+          {
+            "company": {
+              "id": 26062,
+              "name": "Management Leadership for Tomorrow (MLT)"
+            },
+            "id": 532152372,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "summary": "Selected as one of 250 for professional development program for diverse talent\n- Participate in 4 seminars hosted by Goldman Sachs, Target, Google, and Citi",
+            "title": "Career Prep Fellow"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Internet",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 5208935,
+              "name": "Castle for Landlords"
+            },
+            "id": 561894527,
+            "isCurrent": true,
+            "startDate": {
+              "month": 7,
+              "year": 2014
+            },
+            "summary": "We\u2019re using software and on-demand labor to build the world's first scalable property management company.",
+            "title": "Co-Founder & CEO"
+          },
+          {
+            "company": {
+              "id": 5089970,
+              "name": "Rebirth Realty"
+            },
+            "id": 562935903,
+            "isCurrent": true,
+            "startDate": {
+              "month": 7,
+              "year": 2013
+            },
+            "summary": "Rebirth Realty is transforming an abandoned house in Detroit into a communal living and working space for Venture for America Fellows. I'm a founding member of the team who handles fundraising and communications\u2014in addition to doing lots and lots of manual labor.",
+            "title": "Co-Founder"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 14976,
+            "name": "Middlebury College ITS"
+          },
+          "id": 408045717,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2011
+          },
+          "summary": "\u2022 Managed and scheduled student employees at the Helpdesk Walk-In and Call Center\n\u2022 Interviewed and trained students for the Computer Consultant position\n\u2022 Assisted the college community with IT-related problems by providing relevant tutorials",
+          "title": "Lead Technology Consultant"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "FiveThirtyEight"},
+          "id": 554337816,
+          "isCurrent": true,
+          "startDate": {
+            "month": 6,
+            "year": 2014
+          },
+          "title": "Computational Journalist"
+        }]
+      }
+    },
+    {
+      "industry": "Automotive",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "andrew j. spatz/associates ltd."},
+          "id": 28553069,
+          "isCurrent": true,
+          "startDate": {
+            "month": 6,
+            "year": 1976
+          },
+          "title": "Owner"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1586,
+            "name": "Amazon"
+          },
+          "id": 436488352,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2013
+          },
+          "summary": "I have driven the launch of a web service through full stack feature development and operations management. The technologies and paradigms I work with daily include Java, DynamoDB, Angular, REST, Git, DevOps, and Scrum.",
+          "title": "Software Development Engineer"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1441,
+            "name": "Google"
+          },
+          "id": 583136493,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "title": "Software Engineer"
+        }]
+      }
+    },
+    {
+      "industry": "Hospital & Health Care",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 1314235,
+              "name": "Cxense"
+            },
+            "id": 566922688,
+            "isCurrent": true,
+            "startDate": {
+              "month": 7,
+              "year": 2014
+            },
+            "summary": "* Plans, develops, and maintains the Cxense Keyword Extraction Tool that enables easy, efficient, and precise maintenance of the Cxense taxonomy.\n* Plans, develops, and maintains a program that enables Cxense to increase revenue for its clients and itself by extracting keyword reports, which can be used to find keywords that 'should' be sold for a higher price and find keywords that are 'inefficient'.\n* Communicates and works closely with clients to tailor the keyword reports and the Cxense Keyword Extraction Tool to meet their needs and expectations.\n* Helps costumers with a variety of tasks by developing necessary software when the involvement of the R&D department is undesirable due to time constrains.",
+            "title": "Business Development Intern"
+          },
+          {
+            "company": {"name": "Office of Intercultural and International Life"},
+            "id": 577071009,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "* Supports domestic students of color and international students through mentoring and supporting their academic, social, and cultural development and integration to both the Carleton and 'American' community.\n* Fosters cross-cultural dialogue for greater awareness, empathy, acceptance, and recognition among the student body through hosting a variety of events, such as International Week, social get-togethers, and the men and women of color retreat.\n* Facilitated discussions around alcohol and other drugs, sexual health, and diversity during Freshman orientation.",
+            "title": "Intercultural and International Peer Leader"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Venture Capital & Private Equity",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 869339,
+              "name": "Lightbank"
+            },
+            "id": 627600444,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2015
+            },
+            "title": "Associate"
+          },
+          {
+            "company": {
+              "id": 5130525,
+              "name": "Catapult Ideas"
+            },
+            "id": 627704074,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2015
+            },
+            "summary": "Advisor to young entrepreneurs at the high school level who have been accepted into Catapult's intensive four-month incubator program",
+            "title": "Advisor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Management Consulting",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2889210,
+            "name": "Northwestern Student Holdings"
+          },
+          "id": 626164246,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "Chief Executive Officer"
+        }]
+      }
+    },
+    {},
+    {
+      "industry": "Information Technology and Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 245469,
+            "name": "Goby"
+          },
+          "id": 565873130,
+          "isCurrent": true,
+          "startDate": {
+            "month": 7,
+            "year": 2014
+          },
+          "summary": "\u2022   Tracked environmental and energy metrics, including LEED EBOM and Energy Star Benchmarking, of existing buildings through Goby\u2019s SeaSuite data service platform and Energy Star\u2019s Portfolio Manager\n\u2022   Managed over 2,000 interval and utility use accounts as part of the Goby data automation process through close partnership with Urjanet\n\u2022   Customized Salesforce fields to create specialized solutions for executive teams to view portfolios of building groups and property managers to easily visualize base building and tenant use",
+          "title": "Sustainability Analyst"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 74766200,
+            "isCurrent": true,
+            "title": "Associate Professor"
+          },
+          {
+            "company": {"name": "Northwestern"},
+            "id": 148823548,
+            "isCurrent": true,
+            "startDate": {"year": 1995},
+            "title": "Associate Professor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Huntsman Student Advisory Board"},
+            "id": 486676373,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2013
+            },
+            "summary": "\u2022\tElected to represent Class of 2016 on a board that serves 200 students in academic, professional, and social initiatives\n\u2022\tPlan and organize faculty preceptorials and resume workshops for the program community\n\u2022\tWork closely with program administration and the board of directors to initiate new strategies to improve the student experience",
+            "title": "Elected Member of the class of 2016"
+          },
+          {
+            "company": {"name": "Social Impact Consulting"},
+            "id": 486676252,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "summary": "\u2022\tConsulted for a web-based non-profit organization that connects 6123 donors to 64 grass-roots education projects around the world\no\tEvaluated the feasibility of introducing a new merchandising line to cover operational expenses\no\tCreated a financial model presenting projected revenue streams for the next four years\n\n\u2022\tConsulted for a non-profit that coordinates over $600 million in investment for the redevelopment of the Camden waterfront \no\tResearched comparable organizations, demographics, and target customer segments to assess growth opportunities \no\tAuthored a strategic outreach plan to overcome donor fatigue and enhance fundraising efforts\n\n\u2022\tConsulted for a non-profit providing a transitional housing program and youth development program for Germantown residents\no\tCrafted content for website, corporate funding proposals; Created a social media usage guidebook \no\tDesigned a comprehensive data management system to streamline records of donors, partners and students",
+            "title": "Project Leader, Consultant"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Hardware",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 106484288,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2009
+          },
+          "title": "June & Donald Brewer Assistant Professor of Electrical Engineering and Computer Science"
+        }]
+      }
+    },
+    {
+      "industry": "Medical Devices",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 2617243,
+              "name": "Rinovum Women's Health"
+            },
+            "id": 555571958,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "summary": "Reconstructed initial part designs and initiated second generation product development \nAnalyzed vendor data to conclude process improvement actions and create strong relations with vendors \nImplemented new document control system following detailed research and contract investigation \nUpdated product risk controls and dependent quality records",
+            "title": "Engineering and Business Development Intern"
+          },
+          {
+            "company": {"name": "Neuroscience and Robotics Laboratory"},
+            "id": 412840893,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2013
+            },
+            "summary": "Designs robotic trajectories to create articulate marionette motion\nDevelops interface for human interaction with marionette system and robotic controls",
+            "title": "Research Assistant"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Hospitality",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 4865261,
+            "name": "Hathor Investment Group Limited"
+          },
+          "id": 621345424,
+          "isCurrent": true,
+          "startDate": {
+            "month": 2,
+            "year": 2015
+          },
+          "title": "Assistant to CIO"
+        }]
+      }
+    },
+    {
+      "industry": "International Affairs",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 13055,
+              "name": "Wellesley College"
+            },
+            "id": 582837956,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2014
+            },
+            "summary": "Respond to requests of professors and admins, manage library materials, scan to the E-reserve, design event flyers, distribute mail posts, and locate online resources (articles, journals, etc.) as needed",
+            "title": "Student Assistant"
+          },
+          {
+            "company": {
+              "id": 324903,
+              "name": "VietAbroader Organization"
+            },
+            "id": 293664206,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2012
+            },
+            "summary": "Associate of Partners & Sponsors Team",
+            "title": "Member of Executive Team"
+          }
+        ]
+      }
+    },
+    {"positions": {
+      "_total": 1,
+      "values": [{
+        "company": {"name": "Marian McLaughlin - Experimental folk artist"},
+        "id": 604058214,
+        "isCurrent": true,
+        "startDate": {
+          "month": 9,
+          "year": 2014
+        },
+        "summary": "http://marianmclaughlin.bandcamp.com/",
+        "title": "Manager"
+      }]
+    }},
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1924244,
+            "name": "Destination Luxury"
+          },
+          "id": 601142046,
+          "isCurrent": true,
+          "startDate": {
+            "month": 10,
+            "year": 2014
+          },
+          "title": "Social Media Analyst"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "College of Cultural & Community Studies"},
+            "id": 526551673,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "￼Created relationships and organized college-wide events with Community Service organizations in\n￼the Chicago area.\n￼Raised 30% more than any other Residential College for the fall quarter philanthropy despite being\n￼the smallest Residential College with 40 students and the average at 136.",
+            "title": "Vice President of Community Engagement"
+          },
+          {
+            "company": {
+              "id": 982976,
+              "name": "Wildcat Express Delivery"
+            },
+            "id": 587076356,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "Analyzed and arranged company\u2019s order history to build customer and restaurant profiles, granting us vital information used in fine-tuning operations, attracting clients, and bettering financial margins.\nNegotiated deals with the most frequented restaurants, earning discounts and special offers in return for advertisements on our website and fliers.",
+            "title": "Chief Financial Officer"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3625,
+            "name": "Cummins Inc."
+          },
+          "id": 165716976,
+          "isCurrent": true,
+          "startDate": {
+            "month": 7,
+            "year": 2011
+          },
+          "summary": "High Horsepower Engineering",
+          "title": "Senior Design Engineer"
+        }]
+      }
+    },
+    {
+      "industry": "Civil Engineering",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3402,
+              "name": "Sodexo"
+            },
+            "id": 600999588,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2014
+            },
+            "summary": "\u2022 Leading sustainability initiatives of Northwestern Dining\n\u2022 Continuing responsibilities of sustainability internship",
+            "title": "Student Sustainability Supervisor"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 566496157,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "\u2022 Groundwater, stormwater, and soil sampling, and related field work at NSF's Intensely Managed Landscapes Critical Zone Observatory \n\u2022 Supporting literature searches for soil core microbial sampling protocol\n\u2022 Isolating DNA samples to explore the relationship between microbial communities in the Upper Sangamon River and sediments of the surrounding basin \n\u2022 Using QIIME software to lead analysis of microbial communities with PI Dr. Aaron Packman",
+            "title": "Undergraduate Student Researcher"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Nonprofit Organization Management",
+      "positions": {
+        "_total": 4,
+        "values": [
+          {
+            "company": {
+              "id": 268946,
+              "name": "Sylver Consulting"
+            },
+            "id": 615876737,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2014
+            },
+            "title": "Intern"
+          },
+          {
+            "company": {
+              "id": 2919990,
+              "name": "AIESEC Northwestern University"
+            },
+            "id": 606616334,
+            "isCurrent": true,
+            "startDate": {
+              "month": 11,
+              "year": 2014
+            },
+            "title": "President"
+          },
+          {
+            "company": {"name": "Northwestern University's Atomic and Nanoscale Characterization Experimental Center"},
+            "id": 536392426,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "title": "Administrative Assistant"
+          },
+          {
+            "company": {
+              "id": 2919990,
+              "name": "AIESEC Northwestern University"
+            },
+            "id": 491693045,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2013
+            },
+            "title": "Vice President of Talent Management"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 164669,
+              "name": "Lake Forest College"
+            },
+            "id": 548382833,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2013
+            },
+            "title": "Resident Assistant"
+          },
+          {
+            "company": {
+              "id": 164669,
+              "name": "Lake Forest College"
+            },
+            "id": 548382879,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2012
+            },
+            "title": "Weight Room Monitor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Information Technology and Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1009,
+            "name": "IBM"
+          },
+          "id": 369772714,
+          "isCurrent": true,
+          "startDate": {
+            "month": 3,
+            "year": 2013
+          },
+          "summary": "Responsible for establishing a team in the Dublin, Ohio office specifically focused on developing and designing analytic capabilities for emerging IBM Business Analytic Solutions.  \n\nIBM Counter-Fraud Management - 1.0, 1.5\nIBM Predictive Maintenance and Quality - 2.0\n\nLeveraged core IBM middleware and business analytic software:\nDB2\nWebSphere Application Server\nWebSphere Integration Bus\nCognos Business Intelligence\nSPSS\n\nEstablished DevOps infrastructure (Maven, Nexus) concentrated on rapidly delivering tested software within an Agile methodology. \n\nAdditionally engaged in customer deployments and sales POCs opportunities",
+          "title": "Sr Software Engineer Manager, Business Analytics Solution Development"
+        }]
+      }
+    },
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2624,
+            "name": "Columbia University in the City of New York"
+          },
+          "id": 567334711,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "summary": "Elected Vice President of Engineering Student Council Class of 2018.",
+          "title": "Class Vice President at Columbia University"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Northwestern University"},
+          "id": 501898390,
+          "isCurrent": true,
+          "startDate": {
+            "month": 11,
+            "year": 2013
+          },
+          "summary": "The Board position plays an integral role in the planning, coordination, and execution of all programs and initiatives for new students and family members at Northwestern University. The Board is comprised of ten members who work directly with the New Students and Family Programs professional staff as well as administrators across campus. The Director of Staff Training and Dynamics works to plan and execute the Peer Adviser Leadership and Training Course in addition to supplemental training initiatives for Peer Advisers, student leaders who mentor and incoming students in their transition to college throughout their first year.",
+          "title": "Office of New Student and Family Programs"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Hardware",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 588370650,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2014
+            },
+            "summary": "As a teaching assistant for EECS 101 at Northwestern University (An Introduction to Computer Science for Everyone), I am responsible for teaching two discussion sections a week, grading homeworks and exams and helping to design the course's new and dynamic structure.",
+            "title": "Teaching Assistant"
+          },
+          {
+            "company": {"name": "Northwestern University Library Technology Division"},
+            "id": 354458544,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "title": "Student Software Developer"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3356,
+            "name": "Duke University"
+          },
+          "id": 533982075,
+          "isCurrent": true,
+          "startDate": {
+            "month": 5,
+            "year": 2014
+          },
+          "title": "Research Assistant to Bruce W. Jentleson"
+        }]
+      }
+    },
+    {
+      "industry": "Aviation & Aerospace",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {
+              "id": 1791267,
+              "name": "Strive For College"
+            },
+            "id": 616840767,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2014
+            },
+            "summary": "I guide underserved high school students through the college application and financial aid processes by holding weekly Skype sessions, giving feedback on application materials, and providing answers and guidance.",
+            "title": "Mentor"
+          },
+          {
+            "company": {"name": "Voorhees Research Group"},
+            "id": 616845092,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2014
+            },
+            "summary": "Run simulations of phase transformations in thin films to explore the effects of factors such as film thickness, nuclei radius, and nucleation density on the Avrami exponent and its evolution.",
+            "title": "Undergraduate Researcher"
+          },
+          {
+            "company": {"name": "Pick-Staiger Concert Hall"},
+            "id": 242973828,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "summary": "Oversee customer service representatives and effectively handle situations should they arise. In charge of the box office outside of normal business hours and responsible for end-of-day accounting.",
+            "title": "Shift Manager"
+          }
+        ]
+      }
+    },
+    {"positions": {
+      "_total": 1,
+      "values": [{
+        "company": {
+          "id": 2079529,
+          "name": "Are You a Human"
+        },
+        "id": 513613778,
+        "isCurrent": true,
+        "startDate": {
+          "month": 2,
+          "year": 2014
+        },
+        "summary": "Working to turn online annoyances into delightfully branded experiences.",
+        "title": "Marketing and Sales Human"
+      }]
+    }},
+    {
+      "industry": "Information Technology and Services",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 612574755,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2014
+            },
+            "summary": "I'm currently working in a graduate team under professor Aggelos Katsaggelos dedicated to learning more about deep learning. Currently we're in the process of learning about methods such as: \n\u2022 Convolutional Neural Networks\n\u2022 Restricted Boltzmann Machines\n\u2022 Deep Belief Networks\n\u2022 Autoencoders\n\nPossible future application areas include image and video processing, super-resolution, and classification.",
+            "title": "Research Assistant"
+          },
+          {
+            "company": {
+              "id": 670584,
+              "name": "Enova International"
+            },
+            "id": 614012526,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2014
+            },
+            "title": "Incoming Analytics Intern"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 551288657,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "\u2022\tResponsible for the attendance, safety, and participation of 10 freshmen during Wildcat Welcome (Northwestern's new student orientation) and provides individualized emotional and academic support\n\u2022\tLeads and moderates group discussions regarding community expectations, diversity, alcohol use, mental health, and the student body",
+            "title": "Peer Advisor"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 551288807,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "\u2022\tTeaches weekly First Year Experience seminar class to facilitate first years\u2019 adjustment to individual and interpersonal challenges faced with a new collegiate atmosphere\n\u2022\tMaximizes student potential by providing strategies for time and stress management, academic success, campus involvement, and career advancement",
+            "title": "Co-Instructor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 10667,
+            "name": "Facebook"
+          },
+          "id": 466849744,
+          "isCurrent": true,
+          "startDate": {
+            "month": 10,
+            "year": 2013
+          },
+          "summary": "I work on the Facebook Games Platform.",
+          "title": "Software Engineer"
+        }]
+      }
+    },
+    {
+      "industry": "Education Management",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "UWC Mahindra college"},
+          "id": 395685715,
+          "isCurrent": true,
+          "startDate": {
+            "month": 2,
+            "year": 2007
+          },
+          "title": "Transport Manager"
+        }]
+      }
+    },
+    {
+      "industry": "Medical Devices",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2371,
+            "name": "Baxter Healthcare"
+          },
+          "id": 522128271,
+          "isCurrent": true,
+          "startDate": {
+            "month": 3,
+            "year": 2014
+          },
+          "title": "Contractor - Engineer I"
+        }]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {"name": "Yale College Dean's Office"},
+            "id": 551048019,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "summary": "The program aims to foster mentorship and allows upperclassmen to help the incoming freshmen better adjust to college life.",
+            "title": "Freshman Counselor"
+          },
+          {
+            "company": {"name": "Yale School of Medicine"},
+            "id": 551047351,
+            "isCurrent": true,
+            "startDate": {
+              "month": 10,
+              "year": 2013
+            },
+            "summary": "Performed mathematical simulations of the energy budget in terms of the total ATP consumed by the white and gray matter areas. Performed an image analysis to cluster the different brain regions, and calculate the density of axons in the gray and white matter areas. I also conducted computational experiments to deduce to the optimum number of sodium and potassium channel density in the cortical axons in pyramidal cells and interneurons.",
+            "title": "Research Assistant: Hyder Lab"
+          },
+          {
+            "company": {
+              "id": 10171,
+              "name": "Yale-New Haven Hospital"
+            },
+            "id": 551048017,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2013
+            },
+            "summary": "Participated in gross morphology examination, and anatomy and neuropathology conferences with morgue attendants, residents, and Dr. Kisha Mitchell. Presented autopsy cases in front of doctors and residents; helped with dissections and observed in the autopsy room.",
+            "title": "Medical Elective; Student Observer"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {"positions": {
+      "_total": 2,
+      "values": [
+        {
+          "company": {"name": "Transportation Center"},
+          "id": 630464593,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "Web Editor"
+        },
+        {
+          "company": {
+            "id": 2889210,
+            "name": "Northwestern Student Holdings"
+          },
+          "id": 632340809,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "VP of Technology"
+        }
+      ]
+    }},
+    {
+      "industry": "Management Consulting",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {"name": "Talent and Growth Services (TAG), University of Toronto"},
+            "id": 588513717,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "Run and Organized by the University of Toronto Scarborough's Department of Management, Talent and Growth Services (TAG) trains a highly select group of 12 University of Toronto students to represent, compete in and win business case competitions. The Associates are rigorously case trained weekly by Professors, with the best intellectual capital and resources available in all disciplines of business and commerce.",
+            "title": "Strategy Associate"
+          },
+          {
+            "company": {
+              "id": 3660,
+              "name": "University of Toronto"
+            },
+            "id": 538897905,
+            "isCurrent": true,
+            "startDate": {
+              "month": 5,
+              "year": 2014
+            },
+            "summary": "Field of study: Behavior Economics and Consumer Psychology\nResearch assistant to Professor Sam Maglio (Rotman/UTSC)\n\nAs a research assistant, I am involved in every stage of conducting empirical research in behavioral science. These include designing research experiments, recruiting participants and administering these experiments, analyzing the collected data, preparing formal reports of the results, and conducting reviews of the literature relevant to the topic of investigation.\n\nHave successfully conducted 350+ research interviews around the Greater Toronto Area.",
+            "title": "Research Assistant"
+          },
+          {
+            "company": {
+              "id": 3134413,
+              "name": "Indian Youth Economic Association"
+            },
+            "id": 503947997,
+            "isCurrent": true,
+            "startDate": {
+              "month": 7,
+              "year": 2012
+            },
+            "summary": "Founding Vice-President and Pan-India Executive Council member. Conceptualized and Co-authored the Charter of the then nascent Organization which has grown into India's leading Economic, Public Policy and Debate Forum. Currently working on development and expansion of IYEA into an Economic and Policy Think Tank by incorporating Economic Research focus into our Economic Awareness driven corporate strategy.",
+            "title": "Founding Vice President"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Biotechnology",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 2542848,
+              "name": "iStart Jax"
+            },
+            "id": 523536893,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "\u2022 Delivered strategies for accelerating iStart Jax into a central hub for young entrepreneurs\n\n\u2022 Spearheaded programs in social enterprise (e.g. iHeart Florida initiative, as accelerator for nonprofit end) and sustainable, cloud-based idea management opportunities\n\n\u2022 Developed curriculum for iStart Jax's student entrepreneurship workshop initiative",
+            "title": "Member of the Board & Director of Youth and Outreach"
+          },
+          {
+            "company": {"name": "AppHerd, LLC"},
+            "id": 523536581,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2013
+            },
+            "summary": "\u2022 21st century educational software and web development company on PLS (personalized learning system) project\n\n\u2022 Attended and presented with team at multiple client meetings.\n\n\u2022 Offered & accepted role of AppHerd as consulting firm and as project manager of PLS: worked on operations, business canvas, and outlining framework of PLS.",
+            "title": "CEO & Co-founder"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Public Policy",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1295257,
+            "name": "Liberal Party of Canada"
+          },
+          "id": 614376164,
+          "isCurrent": true,
+          "startDate": {
+            "month": 11,
+            "year": 2014
+          },
+          "title": "Volunteer"
+        }]
+      }
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "brain storm ltd"},
+          "id": 572759481,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 1997
+          },
+          "title": "Main specialist"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Knight Lab @ Northwestern University"
+          },
+          "id": 628223664,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "title": "Undergraduate Technology Student Fellow"
+        }]
+      }
+    },
+    {
+      "industry": "Environmental Services",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 1067,
+              "name": "J.P. Morgan"
+            },
+            "id": 537466761,
+            "isCurrent": true,
+            "startDate": {
+              "month": 5,
+              "year": 2014
+            },
+            "title": "Summer Analyst"
+          },
+          {
+            "company": {
+              "id": 1293352,
+              "name": "Brown Daily Herald Inc."
+            },
+            "id": 476364333,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "summary": "Work on recruiting and negotiating with clients, encouraging them to advertise with the BDH, which is Brown\u2019s daily newspaper since 1866.",
+            "title": "Sales Associate"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer & Network Security",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "ProfStreet"},
+          "id": 629093231,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "title": "Head of Technical Services"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Hardware",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1073,
+            "name": "EY"
+          },
+          "id": 590861898,
+          "isCurrent": true,
+          "startDate": {
+            "month": 10,
+            "year": 2014
+          },
+          "summary": "As an Associate Consultant I am primarily responsible for Enterprise risk management for my clients. My role also includes Control and Compliance checks and verifications, mitigating risk and assuring SOX 404 compliance for clients. \n\nMy responsibilities also include checking internal controls of the client and suggesting how they can mitigate risk.",
+          "title": "Associate Consultant - Risk Advisory"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 572850610,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "- Create learning platforms using Rethink Robotics' Baxter Robot and Kuka Robotics' Youbot, building template projects in Python and C++\n- Develop coursework for ME-495: Embedded Systems in Robotics, to be taught in Fall 2014\n- Contribute to logistical planning for the new MS in Robotics program at Northwestern University",
+            "title": "Course Developer - Master of Science in Robotics"
+          },
+          {
+            "company": {
+              "id": 2889210,
+              "name": "Northwestern Student Holdings"
+            },
+            "id": 572838257,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "summary": "- Manage and oversee the operations of a student-run, 5-digit revenue startup\n- Develop operation strategies for new services and markets\n- Design and maintain the company's website and online presence",
+            "title": "CEO - AirHop"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 13886,
+              "name": "Clark University"
+            },
+            "id": 570987632,
+            "isCurrent": true,
+            "startDate": {
+              "month": 5,
+              "year": 2014
+            },
+            "summary": "In addition to performing the tasks of Help Desk consultant, Senior Consultants will support \nSupervisors by mentoring new employees throughout the year, assist in planning and implementing training and workshops, oversee ticket handling, provide direction to Help Desk Consultants. Senior Consultants will be trained in performing s technical functions; such as advanced AV and software configuration/installation. Sr. Help Desk Consultants can go on-site to assist clients.",
+            "title": "Senior Help Desk Consultant"
+          },
+          {
+            "company": {
+              "id": 5182761,
+              "name": "First Pulse Technology"
+            },
+            "id": 590598170,
+            "isCurrent": true,
+            "startDate": {"year": 2014},
+            "summary": "First Pulse Technology is a recent, student created business headquartered in Worcester, Massachusetts, that designs, develops, and specializes in consumer and marketing applications and software. \n\nFirst Pulse Technology's main focus is on WOO Connect, \u2022\tA web and smartphone application that helps students at college and university campuses connect with the local community and find the best events happening around them to \"Experience, Explore, and Discover\" the Worcester community. \n\nFirst Pulse Technology was founded by  Abhijit Singh and Alexander Turgeon in April 2014 to develop and sell their original application idea, WOO Connect, concepted back in the Fall 2013.",
+            "title": "Co Founder, CTO"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 167750,
+            "name": "Techstars"
+          },
+          "id": 630002964,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "Techstars Mobility Winter Intern"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "International Trade and Development",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 13055,
+              "name": "Wellesley College"
+            },
+            "id": 607958302,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2014
+            },
+            "title": "Resident Advisor"
+          },
+          {
+            "company": {"name": "Wellesley College Office of Admission"},
+            "id": 524534658,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "title": "Student Assistant"
+          }
+        ]
+      }
+    },
+    {},
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 624052494,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "summary": "Course assistant for EECS 321 - Programming Languages.  Assist students with assignments through office hours and online discussion board.",
+          "title": "Course Assistant"
+        }]
+      }
+    },
+    {"positions": {
+      "_total": 2,
+      "values": [
+        {
+          "company": {"name": "Tobin Marks Group"},
+          "id": 579464366,
+          "isCurrent": true,
+          "startDate": {
+            "month": 11,
+            "year": 2013
+          },
+          "summary": "\u2022\tFocusing on project about novel transparent conducting oxide (TCO) thin films desired in optoelectronic devices\n\u2022\tEmploying ellipsometer, 4-point probe method, AFM and electron microscopy to determine the characteristics of TCO",
+          "title": "Research Assistant"
+        },
+        {
+          "company": {"name": "WeTalk"},
+          "id": 579465197,
+          "isCurrent": true,
+          "startDate": {
+            "month": 2,
+            "year": 2013
+          },
+          "summary": "\u2022\tCo-founded WeTalk, an online English tutor service that provides Chinese students with the opportunities to learn authentic English\n\u2022\tAccomplished in sending 6 participants to China in summer 2013 for China Insight, a program dedicated to immerse participants in Chinese culture while also providing them with the chance to teach Chinese students authentic English  \n\u2022\tEstablished partnership with one high school and one English training agency in China\n\u2022\tManaging 5 part time mentors and designing 5 different courses customized for the students\n\u2022\tSelected as one of the ten finalist in the Chicago MIT Enterprise Forum Whiteboard Competition and entered the semi-final of the Northwestern Venture Challenge",
+          "title": "Co-founder"
+        }
+      ]
+    }},
+    {
+      "industry": "Consumer Goods",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 24928,
+            "name": "Wartburg College"
+          },
+          "id": 577326771,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2014
+          },
+          "summary": "\u2022 Managed 26 residents in guiding them through a discipline and living/learning environment\n\u2022 Acted as a leader in a building of 360 residents by encouraging service, faith, leadership, and learning\n\u2022 Successfully reported dorm issues to Resident Hall Director and dealt with conflict resolution\n\u2022 Provided residents with the necessary resources in both academic and behavior management",
+          "title": "Resident Assistant"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Wellesley College Child Study Center"},
+            "id": 581717264,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2014
+            },
+            "summary": "Assist the Lead Teacher in classroom management and curriculum planning of up to 16 children (3-yr olds).",
+            "title": "Student Teacher"
+          },
+          {
+            "company": {
+              "id": 13055,
+              "name": "Wellesley College"
+            },
+            "id": 505743828,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2014
+            },
+            "summary": "Interview new employees, supervise and coach around 8 student callers every shift, set up calling pools, contact alums and handle technical difficulties with calling equipment.",
+            "title": "Student Supervisor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 618329509,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2015
+            },
+            "summary": "- Grade Python assignments for EECS 110 (Introduction to Computer Programming)\n- Explain fundamental programming concepts and answer questions during weekly, in-person lab sessions",
+            "title": "EECS Peer Grader - Python Programming"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Integrated Science Program at Northwestern University"
+            },
+            "id": 513666659,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2014
+            },
+            "summary": "- regulate the ISP Blackboard Website by filtering research opportunities, creating subject groups, and updating announcements on upcoming classes, seminars, and deadlines.\n- update software for Mac, PC, and Linux computers\n- materialize suggestions made by ISP students on what would most benefit their education",
+            "title": "Organizational Office Aid"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Motion Pictures and Film",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University RTVF Department"
+            },
+            "id": 477130833,
+            "isCurrent": true,
+            "startDate": {
+              "month": 10,
+              "year": 2012
+            },
+            "summary": "Secretarial tasks, helping Northwestern University staff, students, and faculty.",
+            "title": "Clerical Aide"
+          },
+          {
+            "company": {"name": "Count the Clock Productions"},
+            "id": 617435494,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2012
+            },
+            "summary": "Co-Founder, Executive Producer, Webmaster, Graphics Designer, Festival Coordinator\n\nwww.CountTheClockProductions.com",
+            "title": "Producer"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Aviation & Aerospace",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Human Resources",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Entertainment",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Northwestern university, Packman Lab"},
+            "id": 601117359,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2014
+            },
+            "summary": "Aaron Packman is a professor and researcher in the Civil and Environmental Engineering Department at Northwestern University. I maintain and update the lab's website as their work progresses.",
+            "title": "Website Developer"
+          },
+          {
+            "company": {"name": "Dearborn Observatory"},
+            "id": 601115835,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2013
+            },
+            "summary": "The Dearborn is Northwestern's historic 18.5\" refracting telescope.\nI lead public tours on Friday nights, explaining the history of the building and telescope, and teaching about astronomy. In addition, I operate the telescope during these observing sessions, manually locating and teaching about different stars, planets, and celestial objects.",
+            "title": "Telescope Operator and Tour Guide"
+          }
+        ]
+      }
+    },
+    {"positions": {"_total": 0}},
+    {
+      "industry": "Architecture & Planning",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 157339,
+            "name": "University of Cincinnati"
+          },
+          "id": 489987857,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2011
+          },
+          "title": "Architecture Student"
+        }]
+      }
+    },
+    {"positions": {
+      "_total": 2,
+      "values": [
+        {
+          "company": {
+            "id": 157343,
+            "name": "Brown University"
+          },
+          "id": 549778432,
+          "isCurrent": true,
+          "startDate": {
+            "month": 6,
+            "year": 2014
+          },
+          "title": "Teaching Assistant"
+        },
+        {
+          "company": {"name": "Brown University Science Center"},
+          "id": 519358011,
+          "isCurrent": true,
+          "startDate": {
+            "month": 2,
+            "year": 2013
+          },
+          "title": "Assistant, LaTeX Workshop"
+        }
+      ]
+    }},
+    {
+      "industry": "Management Consulting",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 394763,
+            "name": "campusCATALYST"
+          },
+          "id": 606946174,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "summary": "Currently engaged in a pro-bono consulting assignment through Campus Catalyst for an education non-profit called Bridging the Gap. \n\nDevised new brand identity and a targeted marketing strategy in order to promote name recognition and attract new revenues streams for client.\n\nCo-developed potential for new partnerships in the area to further the organization's social mission",
+          "title": "Community Analyst"
+        }]
+      }
+    },
+    {
+      "industry": "Management Consulting",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 1033,
+            "name": "Accenture"
+          },
+          "id": 614364150,
+          "isCurrent": true,
+          "startDate": {
+            "month": 12,
+            "year": 2014
+          },
+          "title": "Incoming Management Consulting Analyst"
+        }]
+      }
+    },
+    {"positions": {
+      "_total": 1,
+      "values": [{
+        "company": {
+          "id": 3196,
+          "name": "Northwestern University"
+        },
+        "id": 468618554,
+        "isCurrent": true,
+        "startDate": {
+          "month": 1,
+          "year": 2013
+        },
+        "title": "Laboratory Research Assistant - IBNAM Regenerative Medicine"
+      }]
+    }},
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Advanced Materials Processing Lab, Northwestern University"},
+          "id": 414413202,
+          "isCurrent": true,
+          "startDate": {
+            "month": 6,
+            "year": 2013
+          },
+          "title": "Undergraduate Researcher"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 635119222,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2015
+            },
+            "summary": "As a teaching assistant for EECS 355 (FPGA and ASIC Design) I am responsible for grading students' projects and homeworks, and for holding office hours to guide students through their projects.",
+            "title": "Teaching Assistant"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 530421743,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "title": "Resident Assistant"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University Associated Student Government"
+          },
+          "id": 545146685,
+          "isCurrent": true,
+          "startDate": {
+            "month": 4,
+            "year": 2014
+          },
+          "summary": "-Currently leading the entrepreneur-based Services committee to create student-centric web and mobile applications",
+          "title": "Vice President of Services"
+        }]
+      }
+    },
+    {
+      "industry": "Design",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Northwestern University"},
+          "id": 611309699,
+          "isCurrent": true,
+          "startDate": {
+            "month": 11,
+            "year": 2014
+          },
+          "title": "Undergraduate Research Assistant"
+        }]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Scarsdale Strings"},
+          "id": 608744579,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "summary": "Working with schools and school districts in the New York area to procure funding through grants and sponsorship\nCreating and expanding an arts education network consisting of schools, educators, policy groups and arts education advocates.\nCompiling research regarding arts education policies in the United States through piloting effectiveness studies within the organization and collaborating with educators, advocates, schools and policy groups.",
+          "title": "Director of Education Research"
+        }]
+      }
+    },
+    {
+      "industry": "Writing and Editing",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Junge Medien Thüringen"},
+          "id": 545915593,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2014
+          },
+          "summary": "monitoring Content Management System, suggest and discuss story proposals, edit text and images",
+          "title": "Editor of JUMA"
+        }]
+      }
+    },
+    {
+      "industry": "Entertainment",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 290418667,
+          "isCurrent": true,
+          "startDate": {
+            "month": 8,
+            "year": 2011
+          },
+          "title": "Student-Athlete"
+        }]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Stupp Laboratory - Northwestern University"},
+          "id": 617522366,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2013
+          },
+          "summary": "Research includes characterization of the hierarchical self-assembly of DNA-peptide amphiphile (PA) conjugates into nanostructures. Responsible for synthesis of DNA-PA conjugates, purification using HPLC, imaging using TEM, quantification using UV Vis, and lyophilization. Preparation and characterization of resulting hydrogels is then carried out.",
+          "title": "Researcher"
+        }]
+      }
+    },
+    {
+      "industry": "Investment Banking",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Norris University Center"},
+          "id": 414453904,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "summary": "-Hired and co-managed a staff of 16 people\n-Completed administrative duties such as scheduling, upkeep of space and equipment, event scheduling, and maintaining updated forms. \n-Made autonomous decisions regarding ways to improve the Game Room, such as marketing strategies and special event planning.",
+          "title": "Supervisor"
+        }]
+      }
+    },
+    {
+      "industry": "Music",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Higher Education",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 444006790,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2013
+          },
+          "title": "Electrical Engineering Student"
+        }]
+      }
+    },
+    {
+      "industry": "Biotechnology",
+      "positions": {"_total": 0}
+    },
+    {"positions": {
+      "_total": 3,
+      "values": [
+        {
+          "company": {"name": "Stockholm University Law Students' Association"},
+          "id": 599827146,
+          "isCurrent": true,
+          "startDate": {
+            "month": 10,
+            "year": 2014
+          },
+          "summary": "Organizing international study trips for law students.",
+          "title": "Member of the International Committee"
+        },
+        {
+          "company": {"name": "UWC Sweden"},
+          "id": 599828373,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "title": "Fundraising Assistant"
+        },
+        {
+          "company": {"name": "Attunda District Court"},
+          "id": 599820796,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2014
+          },
+          "summary": "Criminal and family cases.",
+          "title": "Lay judge"
+        }
+      ]
+    }},
+    {
+      "industry": "Chemicals",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 598857184,
+          "isCurrent": true,
+          "startDate": {
+            "month": 3,
+            "year": 2013
+          },
+          "summary": "-Principle researcher developing a capstone research project for upper-level Chemistry Major students at Northwestern University.",
+          "title": "Researcher"
+        }]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 546522128,
+            "isCurrent": true,
+            "startDate": {
+              "month": 4,
+              "year": 2014
+            },
+            "summary": "Creating a safe, supporting, and fun community in Northwestern's residence halls.",
+            "title": "Resident Assistant"
+          },
+          {
+            "company": {
+              "id": 2002,
+              "name": "NASA Ames Research Center"
+            },
+            "id": 546520569,
+            "isCurrent": true,
+            "startDate": {
+              "month": 12,
+              "year": 2013
+            },
+            "summary": "Conceiving and constructing equipment for experimentation on the formation of Titania foams in hyper- and hypo-gravity for applications in dye-sensitized solar cells.",
+            "title": "Lead Engineer, Nanoporous Titania Foams in Microgravity"
+          },
+          {
+            "company": {"name": "Unaffiliated"},
+            "id": 255985637,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2008
+            },
+            "title": "Tutor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2650,
+            "name": "University of Illinois at Urbana-Champaign"
+          },
+          "id": 626935405,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "CS 225 - Teaching Assistant"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2190,
+            "name": "Visa"
+          },
+          "id": 569001979,
+          "isCurrent": true,
+          "startDate": {
+            "month": 7,
+            "year": 2014
+          },
+          "title": "Global Network And Security Engineering Intern"
+        }]
+      }
+    },
+    {
+      "industry": "Market Research",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Lamstan"},
+            "id": 565291446,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "► Visited various schools and delivered presentations on higher education options outside India\n► Carried out workshops on researching colleges outside India, fulfilling the requirements and completing the steps to apply to those colleges\n► Provided group and one-on-one mentor sessions",
+            "title": "Mentor"
+          },
+          {
+            "company": {"name": "Lake Forest College Admissions"},
+            "id": 498676109,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "summary": "► Managed multiple online CRM databases by processing and tracking confidential prospective student data\n► Assisted Admission Counselors with planning and executing events, outreach and recruitment efforts on a global scale\n► Led campus tours representing and advocating the college and engaging potential students and their families\n► Served as a liaison to prospective students and built strong relationships by responding to their questions and concerns",
+            "title": "Student Assistant"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Newspapers",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Investment Banking",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 599860144,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2014
+            },
+            "summary": "\u2022\tDeveloped a positive living environment designed to link community, faculty, and residents.\n\u2022\tMarketed, developed and led student centered hall programs to promote social life, education, diversity, health, emotional understanding and growth\n\u2022\tCommunicated, corresponded & collaborated with on and off-campus offices such as counseling,     student activities, campus security, maintenance, etc.\n\u2022\tImplemented and enforced all University and Housing policies\n\u2022\tCollaborated with orientation staff on freshman opening week activities\n\u2022\tBudgeted and allocated money used for residence hall/floor events",
+            "title": "Residential Assistant"
+          },
+          {
+            "company": {
+              "id": 3196,
+              "name": "Northwestern University"
+            },
+            "id": 531521692,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "summary": "\u2022Pursuing a double degree for a Bachelor of Sciences in Industrial Engineering and Management                   Sciences and a Bachelor of Science in Engineering Sciences and Applied Mathematics\n\u2022Completing a Theme in Economics \n\u2022Taking courses such as Advanced Differential Equations, Deterministic models and Optimization",
+            "title": "Student"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Computer Hardware",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {
+              "id": 3719497,
+              "name": "UCSD Guardian Newspaper"
+            },
+            "id": 624617879,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2015
+            },
+            "summary": "As the Photo Editor at the UCSD Guardian Newspaper, I run the photography department. I work with my photographers to document events and happenings as well as liaison with the editors of other departments to to coordinate photos, issues, and design.",
+            "title": "Photo Editor"
+          },
+          {
+            "company": {"name": "Early Stage Startup"},
+            "id": 595990104,
+            "isCurrent": true,
+            "startDate": {
+              "month": 6,
+              "year": 2014
+            },
+            "summary": "In June of 2014, I began an internship with a private party to develop a iOS application that provides services to its users. During this internship, I gained working knowledge and skills on Objective-C, Swift, and the cloud mobile backend Parse.com.\n\nI performed all of the design and programming work as well as the backend data model. The app is scheduled to launch in 2015",
+            "title": "Mobile Software Developer"
+          },
+          {
+            "company": {
+              "id": 3382,
+              "name": "University of California, San Diego"
+            },
+            "id": 628834506,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "title": "Student"
+          }
+        ]
+      }
+    },
+    {"positions": {
+      "_total": 1,
+      "values": [{
+        "company": {
+          "id": 3196,
+          "name": "Northwestern University"
+        },
+        "id": 500570817,
+        "isCurrent": true,
+        "startDate": {
+          "month": 9,
+          "year": 2012
+        },
+        "summary": "Candidate for:\n-Bachelor of Science in Industrial Engineering\n-Kellogg Certificate in Managerial Analytics",
+        "title": "Student"
+      }]
+    }},
+    {
+      "industry": "Design",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 101129,
+            "name": "Dakkota Integrated Systems"
+          },
+          "id": 599537503,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2014
+          },
+          "summary": "- Liason between Office-Side Engineers and Floor-Side Supervisors in the negotiation and communication of Engineering Changes\n- Designed and coded Maintenance Scrap Database, to be updated by Quality Leads and the Engineering Dept.\n- Collaborated with Engineering Team on a better method for tracking priority changes and project progress",
+          "title": "Co-Op Engineer"
+        }]
+      }
+    },
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {
+              "id": 19740,
+              "name": "Sigma Phi Epsilon"
+            },
+            "id": 611206402,
+            "isCurrent": true,
+            "startDate": {
+              "month": 11,
+              "year": 2014
+            },
+            "summary": "Managing chapter finances maintained in Microsoft Excel spreadsheet. Providing quarterly reports on expenses and revenues to alumni board of the fraternity. Preparing quarterly budgets using spending projections from exec board members and presenting to the chapter.",
+            "title": "Vice President of Finance"
+          },
+          {
+            "company": {"name": "Northwestern University Model United Nations"},
+            "id": 572655890,
+            "isCurrent": true,
+            "startDate": {"year": 2012},
+            "summary": "As Vice Chair, assisted in leading the Security Council in debate. As moderator, participated in one of the largest committees of 45 delegates at the conference and facilitated debate. As Undersecretary General of Conference Logistics, responsible for logistics planning for the location of the conference and acquisitions.",
+            "title": "Vice Chair, Moderator, and Undersecretary General for Conference Logistics"
+          }
+        ]
+      }
+    },
+    {"positions": {"_total": 0}},
+    {
+      "industry": "Computer Hardware",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 365483792,
+          "isCurrent": true,
+          "startDate": {
+            "month": 2,
+            "year": 2013
+          },
+          "summary": "\u2022\tAssist patrons with printer and computer technical difficulties in campus lab.\n\u2022\tPreform regular lab cleaning and maintenance.",
+          "title": "Lab Consultant"
+        }]
+      }
+    },
+    {
+      "industry": "Research",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 4021860,
+            "name": "Watzek Library"
+          },
+          "id": 443949159,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2013
+          },
+          "summary": "I was required to man the front desk at the college library, checking materials in and out, research assistance, maintaining stacking order according to the Library of Congress classification system, processing interlibrary loans.",
+          "title": "Circulation Desk Assistant"
+        }]
+      }
+    },
+    {
+      "industry": "Investment Banking",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 3196,
+            "name": "Northwestern University"
+          },
+          "id": 616714365,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2014
+          },
+          "summary": "Research Assistant for Professor Chaithanya Bandi, Assistant Professor of Managerial Economics & Decision Sciences at Kellogg School of Management.  Research focused on optimization of specific company provided services",
+          "title": "Research Assistant"
+        }]
+      }
+    },
+    {
+      "industry": "Management Consulting",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Financial Services",
+      "positions": {
+        "_total": 3,
+        "values": [
+          {
+            "company": {"name": "Boston University Howard Thurman Center"},
+            "id": 558860233,
+            "isCurrent": true,
+            "startDate": {
+              "month": 5,
+              "year": 2014
+            },
+            "summary": "As a student ambassador for Boston University's Howard Thurman Center, I ensure that I promote the ethos of Thurman: to find common ground amongst people who at once seem to be completely different from one another. With my position, I have to promote the centre and its values and help cater to organising events at the centre!",
+            "title": "Student Ambassador"
+          },
+          {
+            "company": {"name": "HyperSphere"},
+            "id": 558859216,
+            "isCurrent": true,
+            "startDate": {
+              "month": 3,
+              "year": 2014
+            },
+            "summary": "The mission of HyperSphere is clearcut: to transform the education system in order to empower students. At HyperSphere, we aim to achieve our mission by making \"modules\" for students who are in secondary school or beyond, currently in the area of mathematics and economics. These modules make students think and use their creativity in order to introspect on what they are learning!",
+            "title": "Co-Founder"
+          },
+          {
+            "company": {"name": "The Carlton St Blues Band"},
+            "id": 559003899,
+            "isCurrent": true,
+            "startDate": {
+              "month": 10,
+              "year": 2013
+            },
+            "summary": "-Been playing drums as part of a modern blues band comprising of a lead guitarist, a rhythm guitarist, and a bassist. Spreading the blues in Boston!",
+            "title": "Drummer"
+          }
+        ]
+      }
+    },
+    {"positions": {"_total": 0}},
+    {"positions": {
+      "_total": 1,
+      "values": [{
+        "company": {
+          "id": 1028423,
+          "name": "Quest University Canada"
+        },
+        "id": 496671917,
+        "isCurrent": true,
+        "startDate": {
+          "month": 8,
+          "year": 2013
+        },
+        "summary": "I work with the Quest Learning Commons to tutor other students with their academic work. I work drop-in hours, as a subject specialist for various classes, and individually with students who desire a more long-term and focused tutoring experience.",
+        "title": "Peer Tutor"
+      }]
+    }},
+    {
+      "industry": "Financial Services",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "UNESQUO | BIT Mesra"},
+            "id": 609645110,
+            "isCurrent": true,
+            "startDate": {
+              "month": 1,
+              "year": 2014
+            },
+            "title": "Executive Member"
+          },
+          {
+            "company": {"name": "News and Publications Society | BIT Mesra"},
+            "id": 609645072,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "summary": "Liaisons with local and national print media houses; editor, content writer, and supervisor for the institute newsletter BIT by BIT.",
+            "title": "General Secretary"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Management Consulting",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 415008,
+            "name": "Tata Housing Development Company Limited"
+          },
+          "id": 382858717,
+          "isCurrent": true,
+          "startDate": {
+            "month": 9,
+            "year": 2012
+          },
+          "title": "Business Development"
+        }]
+      }
+    },
+    {
+      "industry": "Computer Software",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Northwestern University Main Library"},
+            "id": 471945158,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2013
+            },
+            "summary": "-Manage front desk of the Media Center\n-Setup media rooms for instruction and/or viewing media",
+            "title": "Multimedia Center Clerk"
+          },
+          {
+            "company": {"name": "Private Tutoring"},
+            "id": 471945631,
+            "isCurrent": true,
+            "startDate": {
+              "month": 8,
+              "year": 2009
+            },
+            "summary": "-Provide tutoring for math subjects up to Calculus BC and sciences up to AP Chemistry or AP Physics",
+            "title": "Private Tutor"
+          }
+        ]
+      }
+    },
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {"name": "Wacker Neuson"},
+          "id": 414707520,
+          "isCurrent": true,
+          "startDate": {
+            "month": 6,
+            "year": 2013
+          },
+          "title": "R&D Intern"
+        }]
+      }
+    },
+    {
+      "industry": "Music",
+      "positions": {
+        "_total": 2,
+        "values": [
+          {
+            "company": {"name": "Sherman Ave"},
+            "id": 574743174,
+            "isCurrent": true,
+            "startDate": {"year": 2013},
+            "summary": "Wrote satire for Northwestern University's most popular humor publication, averaging over a thousand views per article.\nCo-curated official Twitter account with over 3500 follower.",
+            "title": "Writer"
+          },
+          {
+            "company": {"name": "Northwestern University Pick-Staiger Concert Hall"},
+            "id": 483826292,
+            "isCurrent": true,
+            "startDate": {
+              "month": 9,
+              "year": 2012
+            },
+            "summary": "Worked under strict deadlines, creating concert programs using Adobe Creative Suite and maintaining constant communication with both student performers and Northwestern University music faculty to gather necessary information and ensure satisfaction with results.",
+            "title": "Programs Assistant"
+          }
+        ]
+      }
+    },
+    {"positions": {"_total": 0}},
+    {
+      "industry": "Airlines/Aviation",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 2110,
+            "name": "Sabre Airline Solutions"
+          },
+          "id": 627238680,
+          "isCurrent": true,
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "title": "Associate Intern"
+        }]
+      }
+    },
+    {"positions": {"_total": 0}},
+    {
+      "industry": "Mechanical or Industrial Engineering",
+      "positions": {"_total": 0}
+    },
+    {
+      "industry": "Publishing",
+      "positions": {
+        "_total": 1,
+        "values": [{
+          "company": {
+            "id": 8923416,
+            "name": "APC Books (Arya Publications)"
+          },
+          "id": 613978987,
+          "isCurrent": true,
+          "startDate": {
+            "month": 7,
+            "year": 1980
+          },
+          "title": "Managing Partner"
+        }]
+      }
+    }
+  ]
+}
